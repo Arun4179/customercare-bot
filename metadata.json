@@ -1,0 +1,7 @@
+{
+  "name": "Nexus Voice - Enterprise RAG Assistant",
+  "description": "A real-time, low-latency voice assistant demonstrating Retrieval-Augmented Generation (RAG) using the Gemini Live API. Features live audio streaming, tool calling for knowledge base lookups, and visual feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
